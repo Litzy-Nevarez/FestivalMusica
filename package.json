@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.69.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Litzy-Nevarez/FestivalMusica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Litzy-Nevarez/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/Litzy-Nevarez/FestivalMusica#readme"
 }
